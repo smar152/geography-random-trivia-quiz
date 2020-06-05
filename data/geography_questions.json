@@ -1,0 +1,196 @@
+{
+  "title": "Random Geography Trivia Quiz!",
+  "description": "How well do you know these random Geography facts?",
+  "questions": [
+    {
+      "q_id": 1,
+      "title": "What is the official language of the Federative Republic of Brazil?",
+      "img": "",
+      "question_type": "mutiplechoice-single",
+      "possible_answers": [
+        {
+          "a_id": 1,
+          "caption": "English and Spanish"
+        },
+        {
+          "a_id": 2,
+          "caption": "Spanish"
+        },
+        {
+          "a_id": 3,
+          "caption": "Spanish and Portuguese"
+        },
+        {
+          "a_id": 4,
+          "caption": "Portuguese"
+        }
+      ],
+      "correct_answer": 4,
+      "points": 3
+    },
+    {
+      "q_id": 2,
+      "title": "This is the flag of a self-governing British Crown dependency",
+      "img": "",
+      "question_type": "truefalse",
+      "correct_answer": true,
+      "points": 2
+    },
+    {
+      "q_id": 3,
+      "title": "Which country is across from Madagascar?",
+      "img": "",
+      "question_type": "mutiplechoice-single",
+      "possible_answers": [
+        {
+          "a_id": 7,
+          "caption": "Ivory Coast"
+        },
+        {
+          "a_id": 8,
+          "caption": "Zimbabwe"
+        },
+        {
+          "a_id": 9,
+          "caption": "Mozambique"
+        },
+        {
+          "a_id": 10,
+          "caption": "Malawi"
+        }
+      ],
+      "correct_answer": 9,
+      "points": 2
+    },
+    {
+      "q_id": 4,
+      "title": "Which of the following countries are in the geopolitical region of Oceania?",
+      "img": "",
+      "question_type": "mutiplechoice-multiple",
+      "possible_answers": [
+        {
+          "a_id": 11,
+          "caption": "Indonesia"
+        },
+        {
+          "a_id": 12,
+          "caption": "Papua New Guinea"
+        },
+        {
+          "a_id": 13,
+          "caption": "Solomon Islands"
+        },
+        {
+          "a_id": 14,
+          "caption": "New Zealand"
+        }
+      ],
+      "correct_answer": [12, 13, 14],
+      "points": 4
+    },
+    {
+      "q_id": 5,
+      "title": "Which is the largest US State?",
+      "img": "",
+      "question_type": "mutiplechoice-single",
+      "possible_answers": [
+        {
+          "a_id": 15,
+          "caption": "Alaska"
+        },
+        {
+          "a_id": 16,
+          "caption": "Texas"
+        },
+        {
+          "a_id": 17,
+          "caption": "California"
+        },
+        {
+          "a_id": 18,
+          "caption": "Utah"
+        }
+      ],
+      "correct_answer": 15,
+      "points": 1
+    },
+    {
+      "q_id": 6,
+      "title": "Which of these countries' flags can be found in the Norwegian flag?",
+      "img": "",
+      "question_type": "mutiplechoice-multiple",
+      "possible_answers": [
+        {
+          "a_id": 19,
+          "caption": "Denmark"
+        },
+        {
+          "a_id": 20,
+          "caption": "Finland"
+        },
+        {
+          "a_id": 21,
+          "caption": "Indonesia"
+        },
+        {
+          "a_id": 22,
+          "caption": "Croatia"
+        }
+      ],
+      "correct_answer": [20, 21],
+      "points": 3
+    },
+    {
+      "q_id": 7,
+      "title": "Which of the following oceans is the worlds largest?",
+      "img": "",
+      "question_type": "mutiplechoice-single",
+      "possible_answers": [
+        {
+          "a_id": 23,
+          "caption": "Indian Ocean"
+        },
+        {
+          "a_id": 24,
+          "caption": "Arctic Ocean"
+        },
+        {
+          "a_id": 25,
+          "caption": "Atlantic Ocean"
+        },
+        {
+          "a_id": 26,
+          "caption": "Pacific Ocean"
+        }
+      ],
+      "correct_answer": 26,
+      "points": 3
+    },
+    {
+      "q_id": 8,
+      "title": "Who?",
+      "img": "",
+      "question_type": "mutiplechoice-single",
+      "possible_answers": [
+        {
+          "a_id": 27,
+          "caption": "Cindy"
+        },
+        {
+          "a_id": 28,
+          "caption": "Tyler"
+        },
+        {
+          "a_id": 29,
+          "caption": "Lizzy"
+        },
+        {
+          "a_id": 30,
+          "caption": "Glue"
+        }
+      ],
+      "correct_answer": 29,
+      "points": 2
+    }
+  ]
+}
