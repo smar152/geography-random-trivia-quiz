@@ -5,7 +5,7 @@
     {
       "q_id": 1,
       "title": "What is the official language of the Federative Republic of Brazil?",
-      "img": "",
+      "img": "../img/one.png",
       "question_type": "mutiplechoice-single",
       "possible_answers": [
         {
@@ -31,7 +31,7 @@
     {
       "q_id": 2,
       "title": "This is the flag of a self-governing British Crown dependency",
-      "img": "",
+      "img": "img/two.png",
       "question_type": "truefalse",
       "correct_answer": true,
       "points": 2
@@ -39,7 +39,7 @@
     {
       "q_id": 3,
       "title": "Which country is across from Madagascar?",
-      "img": "",
+      "img": "../img/two.png",
       "question_type": "mutiplechoice-single",
       "possible_answers": [
         {
@@ -65,7 +65,7 @@
     {
       "q_id": 4,
       "title": "Which of the following countries are in the geopolitical region of Oceania?",
-      "img": "",
+      "img": "img/three.png",
       "question_type": "mutiplechoice-multiple",
       "possible_answers": [
         {
