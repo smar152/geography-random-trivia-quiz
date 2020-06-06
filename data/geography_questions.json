@@ -5,7 +5,7 @@
     {
       "q_id": 1,
       "title": "What is the official language of the Federative Republic of Brazil?",
-      "img": "../img/one.png",
+      "img": "img/one.png",
       "question_type": "mutiplechoice-single",
       "possible_answers": [
         {
@@ -39,7 +39,7 @@
     {
       "q_id": 3,
       "title": "Which country is across from Madagascar?",
-      "img": "../img/two.png",
+      "img": "img/three.png",
       "question_type": "mutiplechoice-single",
       "possible_answers": [
         {
@@ -65,7 +65,7 @@
     {
       "q_id": 4,
       "title": "Which of the following countries are in the geopolitical region of Oceania?",
-      "img": "img/three.png",
+      "img": "img/four.png",
       "question_type": "mutiplechoice-multiple",
       "possible_answers": [
         {
@@ -91,7 +91,7 @@
     {
       "q_id": 5,
       "title": "Which is the largest US State?",
-      "img": "",
+      "img": "img/five.png",
       "question_type": "mutiplechoice-single",
       "possible_answers": [
         {
@@ -112,12 +112,12 @@
         }
       ],
       "correct_answer": 15,
-      "points": 1
+      "points": 3
     },
     {
       "q_id": 6,
       "title": "Which of these countries' flags can be found in the Norwegian flag?",
-      "img": "",
+      "img": "img/six.png",
       "question_type": "mutiplechoice-multiple",
       "possible_answers": [
         {
@@ -143,7 +143,7 @@
     {
       "q_id": 7,
       "title": "Which of the following oceans is the worlds largest?",
-      "img": "",
+      "img": "img/seven.png",
       "question_type": "mutiplechoice-single",
       "possible_answers": [
         {
@@ -165,32 +165,6 @@
       ],
       "correct_answer": 26,
       "points": 3
-    },
-    {
-      "q_id": 8,
-      "title": "Who?",
-      "img": "",
-      "question_type": "mutiplechoice-single",
-      "possible_answers": [
-        {
-          "a_id": 27,
-          "caption": "Cindy"
-        },
-        {
-          "a_id": 28,
-          "caption": "Tyler"
-        },
-        {
-          "a_id": 29,
-          "caption": "Lizzy"
-        },
-        {
-          "a_id": 30,
-          "caption": "Glue"
-        }
-      ],
-      "correct_answer": 29,
-      "points": 2
     }
   ]
 }
