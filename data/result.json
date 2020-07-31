@@ -1,0 +1,29 @@
+{
+  "quiz_id": 12,
+  "results": [
+    {
+      "r_id": 1,
+      "minpoints": 0,
+      "maxpoints": 33,
+      "title": "Not good.",
+      "message": "You can afford to know more random grography facts.",
+      "img": "img/result_bad.png"
+    },
+    {
+      "r_id": 2,
+      "minpoints": 34,
+      "maxpoints": 66,
+      "title": "Eh, alright",
+      "message": "You know some random facts, but not all of these specific ones.",
+      "img": "img/result_eh.png"
+    },
+    {
+      "r_id": 3,
+      "minpoints": 67,
+      "maxpoints": 100,
+      "title": "Well Done!",
+      "message": "You happen to know some random geography facts. Go you!",
+      "img": "img/result_good.png"
+    }
+  ]
+}
